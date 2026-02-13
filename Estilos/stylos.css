@@ -1,0 +1,40 @@
+h1{
+    color: sandybrown;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: left;
+}
+h3{
+    color: blueviolet;
+    text-align: left;
+    font-size: 25px;
+}
+h4{
+    color: rgb(253, 96, 6);
+    text-align: left;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h5{
+    color: rgb(34, 93, 160);
+text-align: left;
+font-size: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+}
+.parrafo01{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: rgb(52, 73, 129);
+}
+#parrafo02{
+    color: rosybrown;
+    font-weight: bold;
+    font-size: 22px;
+}
+.img1{
+    margin: 0 auto;
+    
+}
