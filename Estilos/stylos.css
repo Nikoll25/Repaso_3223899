@@ -165,3 +165,9 @@ tr:hover {
     background-color: rgb(231, 231, 242);
     cursor:pointer;
 }
+a:hover{
+    color: white;
+}
+a:active{
+    color: rgb(163, 163, 239);
+}
